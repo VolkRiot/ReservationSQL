@@ -11,7 +11,7 @@ Carolyn Shin:
 
 Steven Fox:
   - SQL Integration
-  - Express PUT/GET functionality
+  - Express POST/GET functionality
 
 Mikhail Metrikin:
   - Express Server Build
